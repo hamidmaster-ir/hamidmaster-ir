@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original-wordmark.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript UI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap"  alt="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery"  alt="jquery" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain-wordmark.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".net"  alt=".net" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>&nbsp;
 </p>
